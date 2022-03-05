@@ -1,1 +1,2 @@
-hello world 
+hello world i have learned soe basic things about git bash
+
